@@ -8,13 +8,12 @@ Skills:  REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about React 
 - 📫 How to reach me: hridoy.cse.bd@gmail.com
-- 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hridoy2024)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy2024)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy2024)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy2024&show_icons=true&count_private=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy2024&show_icons=true&count_private=true)  
+
 
 
 
