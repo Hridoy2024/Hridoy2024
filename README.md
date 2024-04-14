@@ -10,7 +10,7 @@ Skills:  REACT / JS / HTML / CSS
 - 📫 How to reach me: hridoy.cse.bd@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hridoy2024)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hridoy2024)](https://github.com/ryo-ma/github-profile-trophy)
 
