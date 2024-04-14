@@ -7,10 +7,8 @@ Skills:  REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about React 
-- 📫 How to reach me: hridoy.cse.bd@gmail.com 
-
-
-
+- 📫 How to reach me: hridoy.cse.bd@gmail.com
+- 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hridoy2024)](https://github.com/ryo-ma/github-profile-trophy)
 
