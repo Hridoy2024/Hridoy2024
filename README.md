@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Jahedul Islam Rasel
+
+<h1 align="center">Hi 👋, I'm Jahedul Islam Rasel</h1>
 ## Frontend Developer
 
 
